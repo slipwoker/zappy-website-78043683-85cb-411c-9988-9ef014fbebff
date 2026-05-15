@@ -1,0 +1,86 @@
+# המומחית לשיווק ומכירה עיסקית יעילה — Generative Engine Optimization Map
+
+> האדריכלית (The Architect) is a premium Hebrew-language business consulting brand built around the metaphor of architectural construction — treating business growth as a structural engineering discipline. The brand exudes a dark, powerful, and elite aesthetic with gold accents symbolizing wealth and precision. It positions itself as the antidote to chaotic, foundationless businesses, offering 'growth mechanisms' as engineered systems rather than generic advice. The tone is bold, urgent, and authoritative, referencing thought leaders like Robert Kiyosaki to reinforce credibility and aspiration.
+
+---
+
+## Pages
+
+### small business consulting services — המומחית לשיווק ומכירה ע
+https://example.com
+עצור את הכאוס העסקי. אנחנו מהנדסים מנגנוני צמיחה מדויקים לעסקים קטנים שרוצים לשלוט בשוק. ייעוץ עסקי פרימיום שמביא תוצאות אמיתיות.
+
+### האדריכלית שמאחורי ההצלחה שלך — המומחית לשיווק ומכירה עיסקית יעילה
+https://example.com/about
+הכר את המוח האסטרטגי שהפך עשרות עסקים מבלבול לבהירות. גישה ייחודית המשלבת חזון, מבנה ותוצאות — כי עסק מצליח נבנה, לא נולד.
+
+### מערכות צמיחה שמשנות כללי משחק — המומחית לשיווק ומכירה עיסקית יעילה
+https://example.com/services
+גלה שירותי ייעוץ עסקי מתקדמים שנבנו כמו אדריכלות מדויקת. מאסטרטגיית מכירות ועד ניהול משאבי אנוש — כל פתרון מותאם אישית לעסק שלך.
+
+### הצעד הראשון לעסק שאתה חולם עליו — המומחית לשיווק ומכירה עיסקית יעילה
+https://example.com/contact
+מוכן לבנות עסק על יסודות אמיתיים? צור קשר עוד היום עם יועץ עסקי מוביל ותקבל אסטרטגיה מותאמת שתוביל אותך לצמיחה מהירה ומדידה.
+
+### שירות לקוח סמוי לעסקים
+https://example.com/mystery-shopper
+המומחית לשיווק ומכירה עיסקית יעילה - שירות לקוח סמוי לעסקים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: shirazadik99@gmail.com
+- Phone: 0503737557
+- Phone (tel): tel:0503737557
+- Address: תוצרת הארץ 3, פתח תקווה, ישראל, ישראל
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `full_name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המומחית לשיווק ומכירה עיסקית יעילה
+האדריכלית (The Architect) is a premium Hebrew-language business consulting brand built around the metaphor of architectural construction — treating business growth as a structural engineering discipline. The brand exudes a dark, powerful, and elite aesthetic with gold accents symbolizing wealth and precision. It positions itself as the antidote to chaotic, foundationless businesses, offering 'growth mechanisms' as engineered systems rather than generic advice. The tone is bold, urgent, and authoritative, referencing thought leaders like Robert Kiyosaki to reinforce credibility and aspiration.
+
+## Target Audience
+- business owners seeking growth and structural business solutions
+- בעלי עסקים המחפשים צמיחה
+- מייסדי סטארטאפים
+- מנהלים בחברות גדולות
+
+## Industry
+business consulting / growth strategy
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
